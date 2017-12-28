@@ -7,8 +7,8 @@
     <ProjectGuid>{6AEFB69C-2B8F-441D-808F-EA72F4AF709F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HousClass</RootNamespace>
-    <AssemblyName>HousClass</AssemblyName>
+    <RootNamespace>TestClass</RootNamespace>
+    <AssemblyName>TestClass</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
